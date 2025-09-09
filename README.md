@@ -21,23 +21,11 @@
 
 ---
 
-### 🖥️ Desktop Preview
+### 🖥️ Preview
 
-![Desktop Mockup](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_mobile.png)
-_Landing page otimizada para desktop com design moderno e calls-to-action estratégicos_
+![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_desktop.png)
+![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_mobile.png)
 
-### 📱 Mobile Preview
-
-<div align="center">
-<img src="https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Mobile+Preview" alt="Mobile Mockup" width="300"/>
-</div>
-
-_Design 100% responsivo com foco em mobile-first para máxima conversão_
-
-### 🎨 Design System
-
-![Design System](https://via.placeholder.com/600x300/F59E0B/FFFFFF?text=Cores+%7C+Typography+%7C+Components)
-_Paleta de cores: Roxo (#8B5CF6) • Rosa (#EC4899) • Laranja (#F59E0B)_
 
 ---
 
