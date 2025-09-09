@@ -3,6 +3,7 @@
 // import viteLogo from '/vite.svg'
 import './App.css'
 import Hero from './components/Hero'
+import Conteudo from './components/Conetudo'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
   return (
     <>
       <Hero/>
+      <Conteudo/>
     </>
   )
 }

@@ -4,12 +4,14 @@
 
 :root {
   --dark-color: #171620;
-  --grey: #474650;
-  --purple: #7A00B3;
+  --gray: #474650;
+  --purple: #7a00b3;
   --purple-light: #a70ca1;
-  --pink: #FF3F8C;
+  --pink: #ff3f8c;
 }
 
 body {
   font-family: "Poppins", sans-serif;
 }
+
+
