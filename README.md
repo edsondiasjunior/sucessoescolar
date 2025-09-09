@@ -1,4 +1,4 @@
-# 🎓 Construindo o Sucesso Escolar - Landing Page
+# Construindo o Sucesso Escolar - Landing Page
 
 > Uma landing page moderna e responsiva desenvolvida em React + TypeScript para promover o ebook "Construindo o Sucesso Escolar", focada em conversão e experiência do usuário.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Demo ao Vivo
+##  Preview Demo 
 
 **🔗 [Ver Preview na Vercel](https://sucessoescolar.vercel.app/)**
 
@@ -21,11 +21,9 @@
 
 ---
 
-## 📱 Mockups e Design
-
 ### 🖥️ Desktop Preview
 
-![Desktop Mockup](https://via.placeholder.com/800x500/8B5CF6/FFFFFF?text=Desktop+Preview+-+Landing+Page)
+![Desktop Mockup](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_mobile.png)
 _Landing page otimizada para desktop com design moderno e calls-to-action estratégicos_
 
 ### 📱 Mobile Preview
