@@ -4,6 +4,7 @@
 import './App.css'
 import Hero from './components/Hero'
 import Conteudo from './components/Conetudo'
+import Cta from './components/Cta'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
     <>
       <Hero/>
       <Conteudo/>
+      <Cta/>
     </>
   )
 }
