@@ -1,8 +1,8 @@
-# 🎓 Construindo o Sucesso Escolar - Landing Page
+# Construindo o Sucesso Escolar - Landing Page
 
-> Uma landing page moderna e responsiva desenvolvida em React + TypeScript para promover o ebook "Construindo o Sucesso Escolar", focada em conversão e experiência do usuário.
+Landing page moderna e responsiva desenvolvida em React + TypeScript para promover o ebook "Construindo o Sucesso Escolar", focada em conversão e experiência do usuário.
 
-<div align="center">
+<div >
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,35 +11,18 @@
 
 </div>
 
----
 
-## 🚀 Demo ao Vivo
 
-**🔗 [Ver Preview na Vercel](https://sucessoescolar.vercel.app/)**
+##  Preview Demo 
+
+**🔗 [Preview](https://sucessoescolar.vercel.app/)**
 
 > _Clique no link acima para ver a landing page funcionando!_
 
 ---
 
-## 📱 Mockups e Design
-
-### 🖥️ Desktop Preview
-
-![Desktop Mockup](https://via.placeholder.com/800x500/8B5CF6/FFFFFF?text=Desktop+Preview+-+Landing+Page)
-_Landing page otimizada para desktop com design moderno e calls-to-action estratégicos_
-
-### 📱 Mobile Preview
-
-<div align="center">
-<img src="https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Mobile+Preview" alt="Mobile Mockup" width="300"/>
-</div>
-
-_Design 100% responsivo com foco em mobile-first para máxima conversão_
-
-### 🎨 Design System
-
-![Design System](https://via.placeholder.com/600x300/F59E0B/FFFFFF?text=Cores+%7C+Typography+%7C+Components)
-_Paleta de cores: Roxo (#8B5CF6) • Rosa (#EC4899) • Laranja (#F59E0B)_
+![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_desktop.png)
+![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_mobile.png)
 
 ---
 
