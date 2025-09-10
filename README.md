@@ -21,11 +21,8 @@ Landing page moderna e responsiva desenvolvida em React + TypeScript para promov
 
 ---
 
-### 🖥️ Preview
-
 ![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_desktop.png)
 ![](https://raw.githubusercontent.com/edsondiasjunior/sucessoescolar/refs/heads/main/public/mockup_mobile.png)
-
 
 ---
 
