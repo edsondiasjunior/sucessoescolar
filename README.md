@@ -1,8 +1,8 @@
 # Construindo o Sucesso Escolar - Landing Page
 
-> Uma landing page moderna e responsiva desenvolvida em React + TypeScript para promover o ebook "Construindo o Sucesso Escolar", focada em conversão e experiência do usuário.
+Landing page moderna e responsiva desenvolvida em React + TypeScript para promover o ebook "Construindo o Sucesso Escolar", focada em conversão e experiência do usuário.
 
-<div align="center">
+<div >
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,11 +11,11 @@
 
 </div>
 
----
+
 
 ##  Preview Demo 
 
-**🔗 [Ver Preview na Vercel](https://sucessoescolar.vercel.app/)**
+**🔗 [Preview](https://sucessoescolar.vercel.app/)**
 
 > _Clique no link acima para ver a landing page funcionando!_
 
