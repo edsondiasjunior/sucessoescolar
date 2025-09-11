@@ -2,7 +2,7 @@ import Carrossel from "./Carrossel"
 
 export function Depoimentos() {
   return (
-    <section className="h-[100vh]">
+    <section className="h-[100vh] flex flex-col gap-24 px-4">
       <div className="container mx-auto px-4">
         <div className="col-span-2 flex flex-col gap-8">
           <div className="flex flex-col gap-2 lg:items-start">
@@ -16,7 +16,7 @@ export function Depoimentos() {
         </div>
       </div>
 
-      <div>
+      <div className="container mx-auto">
         <Carrossel/>
       </div>
     </section>
