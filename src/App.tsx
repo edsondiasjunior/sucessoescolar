@@ -5,6 +5,7 @@ import './App.css'
 import Hero from './components/Hero'
 import Conteudo from './components/Conetudo'
 import Cta from './components/Cta'
+import { Depoimentos } from './components/Depoimentos'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Hero/>
       <Conteudo/>
       <Cta/>
+      <Depoimentos/>
     </>
   )
 }
